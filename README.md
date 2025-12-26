@@ -32,7 +32,6 @@ The API has been fully tested and verified using **Postman**.
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-   ```bash
-   git clone https://github.com/NafeelSM/EmployeeManagement.git
+  https://github.com/NihlaNawfar/Employee-Management-.git
 
 
