@@ -1,7 +1,38 @@
-[rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/NihlaNawfar/Employee-Management-.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+# 🚀 Node.js Backend API
+
+A RESTful backend API built using **Node.js** for managing database operations.  
+The API has been fully tested and verified using **Postman**.
+
+---
+
+## 📌 Features
+
+- CRUD operations (Create, Read, Update, Delete)
+- RESTful API architecture
+- Database integration
+- Tested with Postman
+- Clean and scalable project structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Node.js
+- **Framework:** Express.js
+- **Database:** (MongoDB / MySQL / PostgreSQL – update this)
+- **API Testing:** Postman
+- **Environment:** Node.js
+
+---
+
+## 📂 Project Structure
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/NafeelSM/EmployeeManagement.git
+
+
